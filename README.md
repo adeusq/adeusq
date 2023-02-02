@@ -1,6 +1,7 @@
-## Hey! <br>
+## Hey! :)<br>
 
-My name is Alba de Deus. I currently work as a Full Stack developer at Hemoce and I am a student of systems analysis and development
+My name is Alba de Deus. <br>
+I currently work as a Full Stack Developer at Hemoce and I am a student of systems analysis and development.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
