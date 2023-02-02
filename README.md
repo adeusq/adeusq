@@ -1,4 +1,7 @@
-## Alba de Deus. Full Stack Developer :)
+## Olá, me chamo Alba de Deus.
+Full Stack Developer at Hemoce.
+Estudante de análise e desenvolvimento de sistemas.
+
 <div align="center">
   <a href="https://github.com/rafaballerini">
 </div>
