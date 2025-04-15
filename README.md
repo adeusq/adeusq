@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/adeusq/portifolio-adeusq/blob/main/banner.png?raw=true" alt="Banner da Alba">
+  <img src="https://github.com/adeusq/portifolio-adeusq/blob/main/banner.png?raw=true" alt="Banner">
 </p>
 
 # 💻 Alba de Deus Moreira
