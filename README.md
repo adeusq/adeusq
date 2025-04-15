@@ -1,5 +1,15 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="IA Banner"/>
+  <img src="https://media.giphy.com/media/fS99D6H8Jlx1ekvWrQ/giphy.gif" width="600" alt="Robô codando"/>
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="600" alt="Robô futurista"/>
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="600" alt="Robô IA"/>
 </p>
 
 # 💻 Alba de Deus Moreira
