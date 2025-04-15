@@ -1,6 +1,19 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="IA Banner"/>
+  <img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="600" alt="Robô Futurista"/>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/fS99D6H8Jlx1ekvWrQ/giphy.gif" width="600" alt="IA Codando"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/fS99D6H8Jlx1ekvWrQ/giphy.gif" width="600" alt="IA Codando"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDv5FO3a/giphy.gif" width="600" alt="Robô Olhando"/>
+</p>
+
 
 # 💻 Alba de Deus Moreira
 
@@ -12,7 +25,7 @@ Sou apaixonado por tecnologia, automações e dados.
 ---
 
 ### 🚀 Sobre mim
-- 🎯 Freelancer focada em **Automação de Processos** e **Desenvolvimento Full Stack**
+- 🎯 Freelancer com foco em **Automação de Processos** e **Desenvolvimento Full Stack**
 - 📊 Especialista em **BI**, dashboards e visualização de dados
 - ⚙️ Crio bots, sistemas e soluções que otimizam rotinas
 - 🌍 Fortaleza - CE
