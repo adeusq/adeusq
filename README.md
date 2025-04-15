@@ -4,7 +4,6 @@
 
 ---
 
-Oi, me chamo **Alba de Deus!** 👋  
 Sou apaixonado por tecnologia, automações e dados.
 
 🎯 Transformo ideias em soluções com foco em performance e inovação.
