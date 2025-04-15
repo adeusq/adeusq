@@ -1,19 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="600" alt="Robô Futurista"/>
+  <img src="https://consumidormoderno.com.br/wp-content/uploads/2023/09/aiwillsave.gif" width="600" alt="IA Will Save Us"/>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/fS99D6H8Jlx1ekvWrQ/giphy.gif" width="600" alt="IA Codando"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/fS99D6H8Jlx1ekvWrQ/giphy.gif" width="600" alt="IA Codando"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDv5FO3a/giphy.gif" width="600" alt="Robô Olhando"/>
-</p>
-
 
 # 💻 Alba de Deus Moreira
 
