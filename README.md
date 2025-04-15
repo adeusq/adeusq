@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://consumidormoderno.com.br/wp-content/uploads/2023/09/aiwillsave.gif" width="800" alt="IA Will Save Us"/>
+  <img src="https://consumidormoderno.com.br/wp-content/uploads/2023/09/aiwillsave.gif" width="800" height="500" alt="IA Will Save Us"/>
 </p>
 
 # 💻 Alba de Deus Moreira
