@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/adeusq/portifolio-adeusq/blob/main/banner-IA.png?raw=true" alt="Banner">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="IA Banner"/>
 </p>
 
 # 💻 Alba de Deus Moreira
