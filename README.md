@@ -22,5 +22,5 @@ Oi, me chamo **Alba de Deus!** 👋
 
 ---
 
-🧠 _“Automação não é pra substituir pessoas. É pra liberar tempo e fazer com que elas brilhem ainda mais.”_
+🧠 _“Automação não elimina talentos — potencializa. Ao liberar tempo, permite que as pessoas se destaquem no que realmente importa.”_
 
