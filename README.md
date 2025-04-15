@@ -4,9 +4,11 @@
 
 # 💻 Alba de Deus Moreira
 
-Oi, me chamo **Alba de Deus !** 👋  
+Oi, me chamo **Alba de Deus!** 👋  
 💡 Freelancer | Full Stack Developer | BI & Automação de Processos
+
 ✨ Apaixonado por criar soluções inteligentes com Python
+
 🚀 Faço parte da transformação digital em projetos que unem dados, design e performance
 
 ---
