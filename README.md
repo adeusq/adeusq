@@ -16,7 +16,7 @@ Oi, me chamo **Alba de Deus!** 👋
 
 ### 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/alba-de-deus-moreira-5376371a2/))  
 📧 albadedeus.com  
 📱 (85) 99944-3470
 
