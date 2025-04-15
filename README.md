@@ -1,5 +1,6 @@
-[# portifolio-adeusq](https://github.com/adeusq/portifolio-adeusq/issues/1#issue-2997828853)
-
+<p align="center">
+  <img src="https://github.com/adeusq/portifolio-adeusq/blob/main/banner.png?raw=true" alt="Banner da Alba">
+</p>
 
 # 💻 Alba de Deus Moreira
 
