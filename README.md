@@ -11,10 +11,10 @@ Sou apaixonado por tecnologia, automações e dados.
 ---
 
 ### 🚀 Sobre mim
-- 🎯 Freelancer com foco em **Automação de Processos** e **Desenvolvimento Full Stack**
-- 📊 Especialista em **BI**, dashboards e visualização de dados
-- ⚙️ Crio bots, sistemas e soluções que otimizam rotinas
-- 🌍 Fortaleza - CE
+🎯 Freelancer com foco em **Automação de Processos** e **Desenvolvimento Full Stack**
+📊 Especialista em **BI**, dashboards e visualização de dados
+⚙️ Crio bots, sistemas e soluções que otimizam rotinas
+🌍 Fortaleza - CE
 
 ---
 
